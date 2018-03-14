@@ -4,6 +4,6 @@ class Dog
    @breed = breed
  end
 
-  @name = Mutt 
+  @name = Mutt
    
 end
