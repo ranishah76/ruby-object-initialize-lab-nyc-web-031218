@@ -4,6 +4,6 @@ class Dog
    @breed = breed
  end
 
- attr_reader :name = "Mutt"
-
+  @name = Mutt 
+   
 end
